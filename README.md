@@ -1,6 +1,6 @@
 # 🤖 Classificação de Score de Crédito com Machine Learning | Credit Risk Analytics
 
-## 📌 Visão Geral
+## 📌 Visão Geral gfgfg
 Este projeto apresenta uma **análise de dados completa aliada à construção de um modelo de Machine Learning**, utilizando **Python, Pandas e Scikit-learn**, com o objetivo de **prever automaticamente o score de crédito de clientes**.
 
 A solução analisa o perfil financeiro e comportamental dos clientes e classifica o **score de crédito em três categorias**:
